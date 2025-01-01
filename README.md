@@ -50,7 +50,7 @@ I . . . . . . X . . I .
 1. Clone the repository:
    ```bash
    git clone https://github.com/lgyeee/Goats_and_Grass.git
-   cd ArtificialLifeGame
+   cd Goats_and_Grass
    ```
 2. Compile the program:
    ``` 
